@@ -1,0 +1,19 @@
+body {
+    background-image: url(image.jpeg);
+    background-size: cover;
+    padding: 30px;
+}
+
+main {
+    width: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    font-style: inherit;
+    color: rgb(240, 248, 255);
+    padding-left: 30px;
+}
+
+h2 {
+    background-image: linear-gradient(to top, rgb(14, 27, 22), rgb(14, 47, 34), rgb(130, 215, 160));
+    padding: 10px;
+}
